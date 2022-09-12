@@ -3,3 +3,7 @@
 
 # macOS Files
 .DS_Store
+
+#output files from cpp programs
+*.out
+*.txt
