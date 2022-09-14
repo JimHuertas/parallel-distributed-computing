@@ -1,7 +1,9 @@
 # Cache Misses
 
-TODO: 
+DONE:
 - Implementar y comparar los 2-bucles anidados FOR presentados en el cap. 2 del libro, pag. 22 (Book: An introduction to Parallel Programing - Peter Pacheco).
+
+TODO: 
 - Implementar en C/C++ la multiplicación de matrices clásica, la versión de tres bucles anidados y evaluar su desempeño considerando diferentes tamaños de matriz.
 - Implementar la versión por bloques (investigar en internet), seis bloques anidados, evaluar su desempeño y compararlo con la multiplicación de matrices clásica.
 - Ejecutar ambos algoritmos paso a paso, y analizar el movimiento de datos entre la memoria principal y la memoria cache. Hacer una evaluación de acuerdo a la complejidad algorítmica.
