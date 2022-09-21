@@ -82,7 +82,7 @@ int main(){
         llenar_mtr(B, i);
         empty_mtr(C,i);
         cout<<"Tamano: "<<i<<endl;
-        //cout<<"\t- Clasico: "<<matrix_multiply(A,B,C,i)<<" s. \n";
+        cout<<"\t- Clasico: "<<matrix_multiply(A,B,C,i)<<" s. \n";
         cout<<"\t- En Bloques: "<<blocked_matrix_multiply(A,B,C,i,4)<<" s.\n\n";
     }
 

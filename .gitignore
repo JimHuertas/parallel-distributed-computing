@@ -7,3 +7,4 @@
 #output files from cpp programs
 *.out
 *.txt
+*.exe
